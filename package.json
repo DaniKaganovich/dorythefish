@@ -1,0 +1,32 @@
+{
+  "name": "dorythefish",
+  "version": "2.0.1",
+  "description": "Function `sleep` for JavaScript.  >sleep(seconds) -> Promise ## Installation",
+  "main": "dory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Botinok",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniKaganovich/dorythefish.git"
+  },
+  "keywords": [
+    "dory"
+  ],
+  "bugs": {
+    "url": "https://github.com/DaniKaganovich/dorythefish/issues"
+  },
+  "homepage": "https://github.com/DaniKaganovich/dorythefish#readme",
+
+"dependencies": {
+  "my_dep": "^1.0.0",
+  "another_dep": "~2.2.0"
+},
+"devDependencies" : {
+  "my_test_framework": "^3.1.0",
+  "another_dev_dep": "1.0.0 - 1.2.0"
+}
+
+}
